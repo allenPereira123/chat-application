@@ -1,1 +1,1 @@
-https://app.netlify.com/sites/thirsty-jones-1ddd1d/overview
+https://thirsty-jones-1ddd1d.netlify.app
